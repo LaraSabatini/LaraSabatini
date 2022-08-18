@@ -3,9 +3,9 @@
 
 - 🔭 I am currently working on this freelance project [SNT business manager](- coming soon -)
 
-- 🏥 And in this company **International Health Services Argentina**
+- 🏥 And in this company **GlobalLogic**
 
-- 🌱 I’m currently learning **Web3.js and Solidity**
+- 🌱 I’m currently learning **iOS Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LaraSabatini](https://github.com/LaraSabatini)
 
