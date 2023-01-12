@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lara Sabatini</h1>
 <h3 align="center">A frontend developer from Argentina</h3>
 
-- 🔭 I am currently working on this freelance project [SNT business manager](- coming soon -)
 
 - 🏥 And in this company **GlobalLogic**
 
