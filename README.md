@@ -4,13 +4,9 @@
 
 - 🏥 And in this company **GlobalLogic**
 
-- 🌱 I’m currently learning **iOS Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/LaraSabatini](https://github.com/LaraSabatini)
 
 - 📫 How to reach me **sabatinilara@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.ae/lLXcg](https://shorturl.ae/lLXcg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
