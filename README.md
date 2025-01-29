@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ssr Software Engineer
 ---------------------
 
-With expertise in TypeScript, Next.js, React, SCSS, Node.js, Express, and MySQL, I architect and develop robust applications from concept to completion. Passionate about creating standout solutions, I strive to solve real-world problems and make life easier for users. Currently serving as the coordinator of the web development department at Bardo, I also dedicate my free time to building management software for companies. Let's collaborate and build something remarkable together! 💻🚀
+With expertise in TypeScript, Next.js, React, SCSS, Node.js, Express, and MySQL, I architect and develop robust applications from concept to completion. Passionate about creating standout solutions, I strive to solve real-world problems and make life easier for users. Currently serving as the manager of the web development department at Bardo, I also dedicate my free time to building management software for companies. Let's collaborate and build something remarkable together! 💻🚀
 
 *   🌍  I'm based in City of Buenos Aires, Argentina
 *   ✉️  You can contact me at [sabatinilara@gmail.com](mailto:sabatinilara@gmail.com)
-*   🧠  I'm learning Cloud development (GCP)### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
